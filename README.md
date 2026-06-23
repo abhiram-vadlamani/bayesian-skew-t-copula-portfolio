@@ -1,1 +1,0 @@
-# bayesian-skew-t-copula-portfolio
